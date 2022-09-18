@@ -47,7 +47,7 @@ Main Principles:
 * We immediately want to know the case of a failed test case
 * Sometimes there is no way around multiple assertions 
 
-#What make a good test?
+# What make a good test?
 
 1. Scope - how much code is covered by our single test case. 
 2. Speed - how fast our test case run. 
@@ -55,6 +55,6 @@ Main Principles:
 4. Avoid Flaky tests - sometimes succeeds and sometimes fails.
 5. Never make the outcome of a test dependent on the outcome of another test. 
 
-##How many test cases should you write? 
+## How many test cases should you write? 
 * Always write test cases as little as necessary, but also as many as necessary. 
 * Equivalent classes help us to determine the amount of tests a function should have.
