@@ -1,5 +1,4 @@
 # Android_Testing_Example
-An example repository showing how testing in done in android...
 
 # Testing in Android
 * Test cases test if our code is working or not. 
